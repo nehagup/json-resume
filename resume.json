@@ -1,183 +1,259 @@
 {
   "basics": {
-    "name": "Shubham Jain",
-    "label": "Machine Learning, Web & Cloud.",
+    "name": "Neha Gupta",
+    "label": "Deep Learning and Web, on cloud.",
     "picture": "",
-    "email": "shubhamkjain@outlook.com",
-    "phone": "+918882110959",
-    "website": "http://shubhams.xyz",
-    "summary": "I love designing highly scalable, cost effective and powerful systems. I have been into designing system level modules using the rust, and these days I spend time exploiting the power of Machine learning. I'm also a vocalist, multi-instrumentalist, and music producer, having involvements in many music projects.   I'm also probably the youngest (globally) to have completed all 5 AWS certifications (including Solutions architect Pro and Dev-ops engineer pro).",
+    "email": "gneha21@yahoo.in",
+    "phone": "+91-9210508393",
+    "website": "www.nehas.ml",
+    "summary": [],
     "location": {
-      "address": "4415/14, Lotan Jat street, Pahari Dhiraj, Sadar Bazar",
-      "postalCode": "110006",
-      "city": "Delhi",
-      "countryCode": "IN",
-      "region": "Delhi"
+      "address": "2239, Raja Park, Rani Bagh, New Delhi.",
+      "postalCode": "DL 110034",
+      "city": "New Delhi",
+      "countryCode": "",
+      "region": "India"
     },
     "profiles": [
       {
-        "network": "Linkedin",
-        "username": "slayerjain",
-        "url": "https://www.linkedin.com/in/slayerjain"
+        "network": "",
+        "username": "",
+        "url": "https://www.nehas.ml"
       },
-      {
-        "network": "SoundCloud",
-        "username": "slayerjain",
-        "url": "https://soundcloud.com/slayerjain"
+    {
+        "network": "LinkedIn",
+        "username": "Neha Gupta",
+        "url": "https://www.linkedin.com/in/neha-gup/"
       }
+
     ]
   },
   "work": [
     {
-      "company": "XWiki",
-      "position": "Google Summer of Code developer",
-      "website": "https://www.xwiki.org",
-      "startDate": "May 2017",
-      "endDate": "",
-      "summary": "I'm working with XWiki to create an importer for Docuwiki projects to XWiki, ensuring consistency and flexibility. I'll be leveraging the XWiki's streams framework for this project.",
+      "company": "Statkraft Markets Pvt. Ltd.",
+      "position": "Software Developer Intern",
+      "website": "http://statkraft.com/",
+      "startDate": "Jun 2017",
+      "endDate": "Present",
+      "summary": "Statkraft is a leading company in hydropower internationally and Europe’s largest generator of renewable energy. I've been working with financial & time series data and systems supporting business or industrial processes",
       "highlights": [
-        "Extend the enterprise grade custom java streams framework",
-        "Improve the XWiki filter module ",
-        "Create a driver to port data from file based storage system to SQL database"
+        "I've been closely engaged with the business development team and developed customized systems for the power market."
       ]
     },
     {
-      "company": "Amazon Internet Services Private Limited",
+      "company": "Bluefox Entertainment",
       "position": "Intern",
-      "website": "https://aws.amazon.com",
-      "startDate": "Nov 2016",
-      "endDate": "May 2017",
-      "summary": "Amazon Internet Services private limited is the Indian entity for Amazon Web Services in India. I've worked with Business development, sales and the solutions architect teams. I've worked with dozens of startups and enterprises to create scalable, cost effective, fault tolerant, and powerful systems. I've also completed all 5 AWS certifications during my internship.",
+      "website": "https://www.bluefoxentertainment.com/",
+      "startDate": "Dec 2016",
+      "endDate": "Mar 2017",
+      "summary": "Worked with the Director of Operations in a variety of areas including artist relations, facility and event management, scheduling, technical planning, and other areas. ",
       "highlights": [
-        "Interaction and migration with numerous on startups and SMBs",
-        "Close association with Solutions architect, Business development, and Operations team.",
-        "Probably the youngest (globally) to pass all 5 AWS certification exams."
+        "Planning and execution of student events, Database processing, summary and distribution of event information."
+      ]
+    },
+    {
+      "company": "Air India Engineering Services Ltd.",
+      "position": "Engineering Intern",
+      "website": "http://www.airindia.in/",
+      "startDate": "Jun 2016",
+      "endDate": "Jul 2016",
+      "summary": " In the Air India training I dealt with functions related to aviation and management. The training was divided into 4 parts :",
+      "highlights": [
+        "Radio Overhaul Shop : Included research on aircraft components, cockpit voice recorder, distance measuring equipment, emergency locator transmitter, very high frequency and HF communication.",
+        "Electrical Overhaul Shop : Included training regarding brake temperature monitoring unit, generator, auxiliary power unit.",
+        "Instrument Overhaul Shop : I learnt about aircraft engine, flight data recorder, gyroscopic systems, cabin pressure control and altimeter."
+      ]
+    },
+    {
+      "company": "Ace Networks Pvt. Ltd.",
+      "position": "Web Developer and Marketing Intern",
+      "website": "http://startupmasterz.com/",
+      "startDate": "Jan 2016",
+      "endDate": "Mar 2016",
+      "summary": "Maintained, expanded and scaled the website  and integrated the data from various back-end services and databases.",
+      "highlights": [
+        "Interacted with dozens of startups and investors. Also, organised pitching events, guest lectures, networking events."
       ]
     },
     {
       "company": "Nextgendeals",
       "position": "Co-Founder",
       "website": "",
-      "startDate": "Jan 2016",
-      "endDate": "Nov 2016",
-      "summary": "We built an end-to-end platform for selling the 'Next' brand appliances. The startup handled the online business for Next appliances. Apart from the primary business, we focused more on creating interesting technology, most notable one was: A web service that brings apple's continuity features (including calling) to the masses.",
+      "startDate": "Sep 2015",
+      "endDate": "Dec 2016",
+      "summary": " Developing end-to-end platform for selling the 'Next' brand appliances. The startup handled the online business for Next appliances. Experimented many e-commerce platforms for the web.",
       "highlights": [
-        "Highly decoupled architecture designed on AWS for the web service enabling very low latency experience",
-        "Experimented many e-commerce platforms for the web",
-        "Implemented custom bluetooth protocol to support transferring audio to PC, however it turned out to be very specific to the bluetooth stack."
+        "Apart from the primary business, we focused more on creating interesting technology, most notable one was:  A project that incorporates a cross-platform web-service to share web-links and bookmarks. Developed highly decoupled architecture designed on AWS for the web service enabling very low latency experience.",
+        "A web service that brings apple's continuity features, including calling, to the masses implemented by designing custom bluetooth protocol to support transferring audio to PC (A2DP to HFP), however it is apparently limited by the overwhelming segmentation in the bluetooth stacks"
       ]
     },
     {
-      "company": "RealBox Data Analytics Private Limited",
+      "company": "RealBox Data Analytics Pvt. Ltd",
       "position": "Research And Development Intern",
       "website": "http://realbox.in",
-      "startDate": "Dec 2015",
-      "endDate": "Jan 2016",
-      "summary": "I worked on creating a Point of Sale (POS) system, using some great javascript libraries, mongoDB, deployed it to a raspberry pi. The goal was to make it end to end, and light enough to support raspberry pi as the central server.",
+      "startDate": "Jun 2015",
+      "endDate": "Aug 2015",
+      "summary": "First exposure to the corporate world.",
       "highlights": [
-        "Ported Oracle SQL based system to mongoDB and wrote query wrappers using mongoDB functions",
-        "Designed the whole server to run on Raspberry Pi with lowered latency.",
-        "Designed the front end on using custom android image to enable immersive kiosk mode"
+        "Designed the front-end templates using jQuery, HTML/CSS.",
+        "Worked on a Point of sales (POS) system using raspberry pi, node.js, mongoDB and JavaScript Frameworks to make it light to support pi as the central server."
       ]
     },
     {
-      "company": "IBM",
-      "position": "Intern",
-      "website": "https://www.ibm.com",
-      "startDate": "Apr 2015",
-      "endDate": "Jul 2015",
-      "summary": "I tested and benchmarked various enterprise applications on variety of platforms. The test ensured validity of various SLAs.",
-      "highlights": [
-        "First exposure to corporate systems and environment",
-        "Learned about extensive testing suites, cloud, and AI"
-      ]
+      "company": "Instrumentation and Control College Project",
+      "position": "Project Manager",
+      "website": "",
+      "startDate": "Feb 2017 ",
+      "endDate": "Apr 2017",
+      "summary": "Electrocardiogram (EKG or ECG) development and optimization using Solar energy by connecting the basic ECG circuit on the micro-controller to the solar cells and battery.",
+      "highlights": []
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "Indian Computer Institute",
+      "position": "Computer Science Teacher",
+      "website": "http://www.indiancomputer.co.in/",
+      "startDate": "",
+      "endDate": "",
+      "summary": "I impart my knowledge of programming languages to students",
+      "highlights": [
+        "I do counselling sessions for shattered and fear-stricken students as it satisfies my inner desire to help others. ",
+        "Awarded 'Teacher of the Month'"
+      ]
+    },
+    {
+      "organization": "Startup Masterz Club",
+      "position": "Founder",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": " I partnered with some external accelerators and seed investors, to create an experimental incubation centre in the college.",
+      "highlights": []
+    },
+    {
+      "organization": "National Service Scheme",
+      "position": "Permanent Member",
+      "website": "http://bvcoend.ac.in/site/home/index/200",
+      "startDate": "",
+      "endDate": "",
+      "summary": "A national NGO group where I have been part of many campaigns to rural parts of Delhi, Rajasthan and Punjab  to encourage technology and education. ",
+      "highlights": []
+    },
+    {
+      "organization": "BVCOE - Clubs",
+      "position": "Core team member",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Joined more than 10 clubs as technical head or management head for networking and exposure to developing technology. Some are GDG, GSC, ISA, ISTE,  CSI,",
+      "highlights": []
+    },
+    {
+      "organization": "World Cultural Festival",
+      "position": "Guitarist",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "Bharati Vidyapeeth's College of Engineering",
-      "area": "Computer Science & Engineering",
+      "area": "Instrumentation and Control Engineering",
       "studyType": "Bachelor of Technology",
-      "startDate": "2013",
-      "endDate": "2017",
+      "startDate": "2014",
+      "endDate": "2018",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Sanatan Dharam Public School",
+      "area": "",
+      "studyType": "High school     -   93.5%",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Sanatan Dharam Public School",
+      "area": "",
+      "studyType": "Middle school        -   9.8",
+      "startDate": "",
+      "endDate": "",
       "gpa": "",
       "courses": []
     }
   ],
   "awards": [
     {
-      "title": "CSI Young IT Professional, North India",
+      "title": "CSI Young IT Professional, North India, Computer Society of India",
       "date": "",
-      "awarder": "Computer Society of India",
-      "summary": "I along with Neha gupta, won the award for our research on designing an IoT chip architecture using Nvidia Tegra reference and simulated it using Nvidia Teslas"
+      "awarder": "",
+      "summary": "I along with Shubham Jain, won the award for our research on designing an IoT chip architecture  using Nvidia Tegra reference and simulated it using Nvidia Tesla."
     }
   ],
   "publications": [],
   "skills": [
     {
-      "name": "Cloud architecting ",
-      "level": "Master",
-      "keywords": [
-        "AWS",
-        "Apache spark",
-        "Serverless design"
-      ]
-    },
-    {
-      "name": "Machine learning",
-      "level": "Master",
-      "keywords": [
-        "CNN/DNN",
-        "Tensorflow",
-        "Octave"
-      ]
-    },
-    {
       "name": "Programming",
-      "level": "Master",
+      "level": "",
       "keywords": [
-        "Java",
+        "JavaScript",
+        "HTML/CSS",
         "Go",
-        "C/C++",
-        "Javascript"
+        "Java"
+      ]
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "",
+      "keywords": [
+        "AWS"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": [
+        "Tensorflow",
+        "octave/Matlab"
+      ]
+    },
+    {
+      "name": "Embedded Systems",
+      "level": "",
+      "keywords": [
+        "Microprocessors",
+        "Microcontrollers"
       ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Professional fluency"
+      "fluency": ""
     },
     {
       "language": "Hindi",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "Tamil ",
-      "fluency": "Limited proficiency"
-    },
-    {
-      "language": "French",
-      "fluency": "Limited proficiency "
+      "fluency": ""
     }
   ],
   "interests": [
     {
-      "name": "Music ",
-      "keywords": [
-        "Experimental/fusion music",
-        "Math rock/metal",
-        "Production/mastering"
-      ]
+      "name": "Public Speaking",
+      "keywords": []
     },
     {
-      "name": "Technology",
-      "keywords": [
-        "Artificial Intelligence",
-        "Quantum Computing & HPC",
-        "Renewable energy"
-      ]
+      "name": "Team Building",
+      "keywords": []
+    },
+    {
+      "name": "Dance Choreography",
+      "keywords": []
     }
   ],
   "references": []
